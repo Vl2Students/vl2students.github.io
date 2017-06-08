@@ -601,6 +601,12 @@ h6,
 #menu-o .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#content6-1o P {
+  text-align: left;
+}
+#content6-1o H1 {
+  text-align: center;
+}
 #menu-r .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -941,4 +947,14 @@ h6,
 #content5-1l .mbr-section-title,
 #content5-1l p {
   color: #fff;
+}
+#msg-box3-1n .mbr-section-title,
+#msg-box3-1n p {
+  color: #000;
+}
+#msg-box3-1n .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-1n .lead P {
+  color: #ffffff;
 }

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "VL2 Student Network",
-    "currentPage": "apply.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 58,
+    "uniqCompNum": 61,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-128x96.png",
     "noImageResize": ""
@@ -429,30 +429,23 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-p",
+          "_name": "content6",
+          "_anchor": "content6-1o",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/p1010139-2000x1333.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgColor": "#ffffff"
           },
-          "title": "VL2 Student Network",
-          "text": "A Gallaudet University and National Science Foundation<br>Science of Learning Center on Visual Language and Visual Learning",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"apply.html\" data-toolbar=\"-mbrBtnMove\">APPLY NOW!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"vl2.gallaudet.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VL2 @ Gallaudet University</a>"
+          "text1": "<h1>CURRENT SCHOLARS</h1><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text2": "<h1>ALUMNI</h1><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            },
+            "H1": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -1063,7 +1056,7 @@
           "title1": "Dr. Ilaria Berteletti",
           "subtitle1": "SLT Faculty Liaison",
           "caption1": "Assistant Professor,&nbsp;PhD in Educational Neuroscience (PEN) Program<br><i>Gallaudet University</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:ilaria.berteletti@gallaudet.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/bradley-600x899.jpg",
@@ -1078,8 +1071,8 @@
           },
           "title2": "Bradley &nbsp;E. White",
           "subtitle2": "SLT Chair",
-          "caption2": "Student, PhD in Educational Neuroscience<br><i>Gallaudet University</i>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption2": "Student, PhD in Educational Neuroscience<br><i>Gallaudet University</i><br><i><br></i>",
+          "button2": "<a data-app-btn=\"true\" href=\"mailto:bradley.white@gallaudet.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1090,8 +1083,8 @@
           },
           "title3": "Diana Andriola",
           "subtitle3": "SLT SRC Chair",
-          "caption3": "Student, PhD in Educational Neuroscience<br><i>Gallaudet University</i>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption3": "Student, PhD in Educational Neuroscience<br><i>Gallaudet University</i><br><i><br></i>",
+          "button3": "<a data-app-btn=\"true\" href=\"mailto:diana.andriola@gallaudet.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -1200,8 +1193,8 @@
           },
           "title1": "Emily Kubicek",
           "subtitle1": "SLT Events Chair",
-          "caption1": "Student, PhD in Educational Neuroscience<br><i>Gallaudet University</i>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption1": "Student, PhD in Educational Neuroscience<br><i>Gallaudet University</i><br><i><br></i>",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:emily.kubicek@gallaudet.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
@@ -1216,8 +1209,8 @@
           },
           "title2": "Martin Watkins",
           "subtitle2": "SLT VL2 Meetings Chair",
-          "caption2": "Student, PhD in Educational Linguistics<br><i>University of New Mexico</i>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption2": "Student, PhD in Educational Linguistics<br><i>University of New Mexico</i><br><i><br></i>",
+          "button2": "<a data-app-btn=\"true\" href=\"mailto:mawatkins@unm.edu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -1228,8 +1221,8 @@
           },
           "title3": "Name Surname",
           "subtitle3": "Undergraduate Representative",
-          "caption3": "Title, Program<br><i>University</i>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "caption3": "Title, Program<br><i>University</i><br><i><br></i>",
+          "button3": "<a data-app-btn=\"true\" href=\"contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -1415,7 +1408,48 @@
             "showCaption": true
           },
           "title": "Become a VL2 Student Network Scholar!",
-          "caption": "<p>Students at VL2-affiliated universities may apply for VL2 Student Network membership. &nbsp;Partnerships are created when Gallaudet University and representatives from the partner university have signed a Memorandum of Understanding (MoU) or a letter of support. &nbsp;Current partnerships include:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">• American University</span><br>* Gallaudet University<br>• George Washington University<br>• Georgetown University<br>• Georgia Institute of Technology<br>• Indiana University, Bloomington<br>• Lamar University<br>• Rochester Institute of Technology<br>• San Diego State University<br>* Stanford University<br>• University of California, San Diego<br>• University of Connecticuit<br>* University of Hong Kong<br>• University of Illinois, Urbana-Champaign<br>* University of Manitoba<br>• University of New Mexico<br>• University of Texas at Austin<br>* University of Tulsa<br>• Vanderbilt University<br>• Yale University</p><p>If your university is not on this list, please contact <a href=\"mailto:ilaria.berteletti@gallaudet.edu\" target=\"_blank\" class=\"text-danger\">Dr. Ilaria Berteletti</a>, our VL2 Student Network Faculty Liaison, to inquire about partner opportunities. &nbsp;In addition, there are several universities with which an MoU is currently pending: California State University, Fresno, University College London, University of Alberta, and University of Maryland.</p><p>Membership is <b>free</b>. &nbsp;In order to become a member, you must complete an application. &nbsp;In the past, we accepted applications during an open enrollment period. &nbsp;We have since phased this out and now accept applications on a rolling basis. &nbsp;Your application will be reviewed by a committee, and you will be notified of their decision within one to two weeks of receiving all of your materials. &nbsp;<b>We do not have to have an MoU with your university in order for you to submit an application</b>. &nbsp;We will work with each applicant on a case-by-case basis to develop a partnership with your university. &nbsp;Upon the approval of your application and the establishment of an MoU with your institution, you will be granted membership. &nbsp;To maintain membership, you must be continually enrolled as a student at a VL2-partnered university, and you may be asked to complete an annual progress report. &nbsp;Membership is valid until your graduate date.</p><p>Undergraduate Application</p><p>Graduate Application</p><p><a href=\"contact.html\" class=\"text-danger\">Questions? Contact us!</a></p>"
+          "caption": "<p>Students at VL2-affiliated universities may apply for VL2 Student Network membership. &nbsp;Partnerships are created when Gallaudet University and representatives from the partner university have signed a Memorandum of Understanding (MoU) or a letter of support. &nbsp;Current partnerships include:</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">• American University</span><br>* Gallaudet University<br>• George Washington University<br>• Georgetown University<br>• Georgia Institute of Technology<br>• Indiana University, Bloomington<br>• Lamar University<br>• Rochester Institute of Technology<br>• San Diego State University<br>* Stanford University<br>• University of California, San Diego<br>• University of Connecticuit<br>* University of Hong Kong<br>• University of Illinois, Urbana-Champaign<br>* University of Manitoba<br>• University of New Mexico<br>• University of Texas at Austin<br>* University of Tulsa<br>• Vanderbilt University<br>• Yale University</p><p>If your university is not on this list, please contact <a href=\"mailto:ilaria.berteletti@gallaudet.edu\" target=\"_blank\" class=\"text-danger\">Dr. Ilaria Berteletti</a>, our VL2 Student Network Faculty Liaison, to inquire about partner opportunities. &nbsp;In addition, there are several universities with which an MoU is currently pending: California State University, Fresno, University College London, University of Alberta, and University of Maryland.</p><p>Membership is <b>free</b>. &nbsp;In order to become a member, you must complete an application. &nbsp;In the past, we accepted applications during an open enrollment period. &nbsp;We have since phased this out and now accept applications on a rolling basis. &nbsp;Your application will be reviewed by a committee, and you will be notified of their decision within one to two weeks of receiving all of your materials. &nbsp;<b>We do not have to have an MoU with your university in order for you to submit an application</b>. &nbsp;We will work with each applicant on a case-by-case basis to develop a partnership with your university. &nbsp;Upon the approval of your application and the establishment of an MoU with your institution, you will be granted membership. &nbsp;To maintain membership, you must be continually enrolled as a student at a VL2-partnered university, and you may be asked to complete an annual progress report. &nbsp;Membership is valid until your graduate date.</p>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1n",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/p1010044-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "APPLY NOW!",
+          "text": "<p>We accept applications on a rolling basis!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://drive.google.com/file/d/0BzBlbORwXQtQT0s4enl1YXg2R0U/view\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">UNDERGRADUATE APPLICATION</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://drive.google.com/file/d/0BzBlbORwXQtQaXAzYl9wSWxCZms/view\" data-toolbar=\"-mbrBtnMove\">GRADUATE APPLICATION</a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">QUESTIONS? CONTACT US!</a>"
         },
         {
           "_tags": [
